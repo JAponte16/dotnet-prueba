@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sico-admon", "sico-admon.csproj", "{DB47EFFD-74C3-45C0-AC83-32795F9E2FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB47EFFD-74C3-45C0-AC83-32795F9E2FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB47EFFD-74C3-45C0-AC83-32795F9E2FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB47EFFD-74C3-45C0-AC83-32795F9E2FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB47EFFD-74C3-45C0-AC83-32795F9E2FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E423D896-B11A-49DD-B1B8-6FE91966C22D}
+	EndGlobalSection
+EndGlobal

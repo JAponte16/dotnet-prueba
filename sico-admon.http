@@ -1,0 +1,6 @@
+@sico_admon_HostAddress = http://localhost:5233
+
+GET {{sico_admon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
